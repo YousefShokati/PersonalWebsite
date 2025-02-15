@@ -1,0 +1,11 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  margin: 0;
+}
+.josef {
+  color: blue;
+  margin: 10px;
+}
